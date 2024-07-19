@@ -1,4 +1,4 @@
-GOLDEN RULES
+git GOLDEN RULES
 
 - it is always good to install git bash 
 - and then use it as a main terminal source
